@@ -28,6 +28,8 @@ I started my career as a frontend developer, focusing primarily on the React.js 
 <a href="https://www.canva.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/></a>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolinarueda&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 ##
 
 <h3 align="left">📱 Connect with me</h3>
