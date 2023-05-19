@@ -5,7 +5,7 @@ I started my career as a frontend developer, focusing primarily on the React.js 
 
 - 📂  Currently working on [ToDo App](https://github.com/CarolinaRueda/ToDoApp)
 
-- 📚 Currently learning **Prisma**
+- 📚 Currently learning **Next.js**
 
 ##
 
