@@ -3,9 +3,9 @@
 
 I started my career as a frontend developer, focusing primarily on the React.js environment. I've been coding for more than two years, and during that time, I've worked on projects that mainly involved react applications and REST APIs, as well as simple web pages. The backend was the next step, so I learned how to implement it with my knowledge of JavaScript. Now I'm able to do things like setting up the server, user authentication, online payments, and managing databases.
 
-- 📂  Currently working on [ToDo App](https://github.com/CarolinaRueda/ToDoApp)
+- 📂  Currently working on [Filmic](https://github.com/CarolinaRueda/Filmic)
 
-- 📚 Currently learning **Next.js**
+- 📚 Currently learning **Prisma**
 
 ##
 
