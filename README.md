@@ -3,9 +3,9 @@
 
 I started my career as a frontend developer, focusing primarily on the React.js environment. I've been coding for more than two years, and during that time, I've worked on projects that mainly involved react applications and REST APIs, as well as simple web pages. The backend was the next step, so I learned how to implement it with my knowledge of JavaScript. Now I'm able to do things like setting up the server, user authentication, online payments, and managing databases.
 
-- 📂  Currently working on [Filmic](https://github.com/CarolinaRueda/Filmic)
+- 📂  Currently working on [Chirp](https://github.com/CarolinaRueda/chirp)
 
-- 📚 Currently learning **Prisma**
+- 📚 Currently learning **tRPC**
 
 ##
 
@@ -24,6 +24,8 @@ I started my career as a frontend developer, focusing primarily on the React.js 
 <a href="https://www.postgresql.org/" target="blank"><img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgresql"/></a>
 <a href="https://www.mongodb.com/" target="blank"><img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
 <a href="https://jwt.io/" target="blank"><img align="center" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" alt="JSON-Web-Tokens"/></a>
+  <a href="https://nextjs.org/" target="blank"><img align="center" src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/></a>
+   <a href="https://www.prisma.io/" target="blank"><img align="center" src="https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma"/></a>
 <a href="https://www.figma.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/></a>
 <a href="https://www.canva.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/></a>
 </p>
